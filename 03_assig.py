@@ -1,0 +1,15 @@
+a=8
+b=9
+c=6
+d=5
+e=5
+c*=2
+a-=2
+b*=2
+d/=2
+e//=2
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
